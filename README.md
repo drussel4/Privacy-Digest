@@ -53,6 +53,8 @@ The project is at an incubation stage. Please read the [initial report](https://
 <div align="center">
     <img src="src/media/spotify_modal.png" alt="modal">
     <img src="src/media/search_engine_privacy_digest.png" alt="search_engine">
+    <img src="src/media/slack_privacy_digest.png" alt="slack">
+    <img src="src/media/spotify_privacy_digest.png" alt="spotify">
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
