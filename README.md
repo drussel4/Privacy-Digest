@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/drussel4/Privacy-Digest">
-    <img src="src/media/privacy_digest_logo_.png" alt="Privacy Digest Logo" width="45%">
+    <img src="src/media/logo_privacy_digest.png" alt="Privacy Digest Logo" width="45%">
   </a>
 </div>
 
