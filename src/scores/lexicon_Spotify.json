@@ -1,0 +1,19 @@
+{
+    "categories_ct": 2,
+    "keywords_ct": 11,
+    "categories": "PII, transformations",
+    "keywords": "aggregat, card numb, credit card, date of birth, email addr, name, password, phone, street addr, username, zip",
+    "keywords_list": [
+        "aggregat",
+        "name",
+        "phone",
+        "email addr",
+        "username",
+        "password",
+        "credit card",
+        "card numb",
+        "street addr",
+        "zip",
+        "date of birth"
+    ]
+}

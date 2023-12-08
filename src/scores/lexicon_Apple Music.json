@@ -1,0 +1,12 @@
+{
+    "categories_ct": 2,
+    "keywords_ct": 4,
+    "categories": "PII, transformations",
+    "keywords": "aggregat, email addr, name, phone",
+    "keywords_list": [
+        "aggregat",
+        "name",
+        "phone",
+        "email addr"
+    ]
+}
