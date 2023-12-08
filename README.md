@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/drussel4/Privacy-Digest">
-    <img src="src/media/logo_privacy_digest.png.png" alt="Privacy Digest Logo" width="45%">
+    <img src="src/media/privacy_digest_logo_.png" alt="Privacy Digest Logo" width="45%">
   </a>
 </div>
 
@@ -46,6 +46,11 @@ Privacy Digest is a rating system for privacy policies. The goal is to inform in
 
 <div align="center">
     <img src="src/media/lucidity_sensitivity_control.png" alt="scores">
+</div>
+
+The project is at an incubation stage. Please read the [initial report](https://github.com/drussel4/Privacy-Digest/src/media/privacy_digest.pdf) to learn more about the proposed framework and an examination of the benefits and limitations of the approach.
+
+<div align="center">
     <img src="src/media/spotify_modal.png" alt="modal">
     <img src="src/media/search_engine_privacy_digest.png" alt="search_engine">
 </div>
