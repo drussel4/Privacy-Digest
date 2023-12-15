@@ -12,7 +12,7 @@
 <h3 align="left">Privacy Digest</h3>
 
   <p align="left">
-    <b><i>Privacy Digest</i></b> is a tool to preview the privacy policy of a site before you visit. It includes rating system for evaluating the safeguards and risks of privacy policies and explanations of how the team came to that score. The strategy is to provide _clear and expedient_ evaluation of privacy policies in order to return agency to individuals.
+    <b><i>Privacy Digest</i></b> is a tool to preview the privacy policy of a site before you visit. It includes rating system for evaluating the safeguards and risks of privacy policies and explanations of how the team came to that score. The strategy is to provide <i>clear and expedient</i> evaluation of privacy policies in order to return agency to individuals.
     <br />
     <br />
   </p>
